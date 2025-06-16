@@ -1,15 +1,14 @@
 ## 👋 Greetings!
-Hello, I am Sachet and I am a Computer Science undergrad 💻. 
+Hello, I am Sachet and I graduted with an undergrad in Computer Science 💻. 
 
 
 ## 🧾 Languages and skills
-- Python
-- Java
-- HTML/CSS, Javascript, Vue.js 
+- Javascript, React, Vue
+- React Native / Expo
+- Java 
 - Linux
-
 
 ## 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/sachetdawadi/
-- Website: https://sachet0.github.io/
+- Website: https://sachetd.ca
 - Github: https://github.com/sachet0
